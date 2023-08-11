@@ -1,0 +1,1 @@
+# SonikCoin Token contract
